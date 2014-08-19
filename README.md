@@ -1,3 +1,3 @@
-Rawr!~
+Credit for the rules to this game goes to Ziddykins from fortune.org/g/
 
-See rules file for rules.
+Rules are listed in the rules.txt file
